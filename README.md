@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou Erick Luiz!
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** | Foco em **Java** e **SQL**  
-🌙 Trabalho no turno da noite e estudo à noite (sim, café é meu melhor amigo ☕)  
 🚀 Buscando oportunidades em **Back-end** e **Engenharia de Software**
 
 ---
 
 ## 📌 Tecnologias que uso
 - **Linguagens:** Java, SQL, JavaScript (básico)
-- **Banco de Dados:** MySQL, PostgreSQL
+- **Banco de Dados:** MySQL
 - **Ferramentas:** Git, GitHub, IntelliJ IDEA, VS Code
 - **Conceitos:** Programação Orientada a Objetos, CRUD, JOINs, Estruturas de Controle
 
