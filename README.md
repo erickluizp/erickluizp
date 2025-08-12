@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Erick Luiz!
 
-<!--
-**erickluizp/erickluizp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** | Foco em **Java** e **SQL**  
+🌙 Trabalho no turno da noite e estudo à noite (sim, café é meu melhor amigo ☕)  
+🚀 Buscando oportunidades em **Back-end** e **Engenharia de Software**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Tecnologias que uso
+- **Linguagens:** Java, SQL, JavaScript (básico)
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Ferramentas:** Git, GitHub, IntelliJ IDEA, VS Code
+- **Conceitos:** Programação Orientada a Objetos, CRUD, JOINs, Estruturas de Controle
+
+---
+
+## 📊 Estatísticas do GitHub
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickluizp&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickluizp&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ericklx)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickxlpontes@gmail.com)
+
+---
+
+> “Sempre aprendendo, sempre codando.”
