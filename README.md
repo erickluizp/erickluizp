@@ -1,6 +1,6 @@
 # Olá, eu sou Erick 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java e SQL  
+Estudante de Análise e Desenvolvimento de Sistemas.
 Apaixonado por backend, aprendizado contínuo e projetos práticos.
 
 ---
