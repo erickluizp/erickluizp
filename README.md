@@ -10,12 +10,5 @@ Java | SQL | Git | HTML | CSS | JavaScript
 
 ---
 
-## 📂 Projetos em destaque
-- [Chess System Java](https://github.com/erickluizp/chess-system-java) – Jogo de xadrez completo em Java  
-- [Cards de Assimilação](https://github.com/erickluizp/cards-de-assimilacao) – Jogo de cartas educativo  
-- [Página de Login](https://github.com/erickluizp/pagina-de-login) – Interface de login responsiva
-
----
-
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/ericklx)
