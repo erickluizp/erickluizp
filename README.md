@@ -1,8 +1,10 @@
-<h1 align="center">Olá, eu sou o Erick 👋</h1>
+<h1 align="left">Olá, eu sou o Erick 👋</h1>
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas.<br>
-  Apaixonado por backend, aprendizado contínuo e projetos práticos.
+<p align="left">
+  🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+  💼 Em busca da minha primeira oportunidade na área de tecnologia<br>
+  🔧 Preferência por desenvolvimento backend<br>
+  🚀 Aprendendo na prática, através de projetos reais
 </p>
 
 <p align="center">
