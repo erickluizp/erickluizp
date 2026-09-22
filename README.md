@@ -22,15 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-statsss-dun.vercel.app/api?username=erickluizp&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-statsss-dun.vercel.app/api/top-langs/?username=erickluizp&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
