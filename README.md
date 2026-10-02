@@ -1,7 +1,7 @@
 <h1 align="left">Erick Luiz</h1>
 
 <p align="left">
- **`Desenvolvedor Backend Java`**
+<h3><code>Desenvolvedor Backend Java</code></h3>
 
 Desenvolvedor Backend com formação em Análise e Desenvolvimento de Sistemas, focado no desenvolvimento de APIs REST utilizando Java e Spring Boot. Possuo experiência prática com Programação Orientada a Objetos, Spring Data JPA, Hibernate, PostgreSQL, Maven, Git, Docker e Postman. Venho desenvolvendo projetos práticos aplicando DTOs, operações CRUD, tratamento de exceções e arquitetura em camadas, buscando escrever código limpo, organizado e de fácil manutenção. Atualmente, continuo aprimorando meus conhecimentos em Java e Spring Boot com foco no desenvolvimento backend.
 </p>
